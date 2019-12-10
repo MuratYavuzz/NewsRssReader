@@ -1,0 +1,99 @@
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\ApplicationInsights.config
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\roslyn\csc.exe
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\roslyn\vbc.exe
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\roslyn\VBCSCompiler.exe
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\RSSParsing.dll.config
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\RSSParsing.dll
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\RSSParsing.pdb
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\Microsoft.AI.Web.dll
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\Microsoft.ApplicationInsights.dll
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\Microsoft.AI.Web.xml
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\Microsoft.ApplicationInsights.xml
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\obj\Debug\RSSParsing.csprojResolveAssemblyReference.cache
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\obj\Debug\RSSParsing.dll
+C:\Users\muraa\Desktop\RSSParsing\RSSParsing\obj\Debug\RSSParsing.pdb
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\ApplicationInsights.config
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\roslyn\csc.exe
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\roslyn\vbc.exe
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\roslyn\VBCSCompiler.exe
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\RSSParsing.dll.config
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\RSSParsing.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\RSSParsing.pdb
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\Microsoft.AI.Web.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\Microsoft.ApplicationInsights.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\Microsoft.AI.Web.xml
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\Microsoft.ApplicationInsights.xml
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\obj\Debug\RSSParsing.csprojResolveAssemblyReference.cache
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\obj\Debug\RSSParsing.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\HW4\RSSParsing\RSSParsing\obj\Debug\RSSParsing.pdb
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\obj\Debug\RSSParsing.csprojResolveAssemblyReference.cache
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\obj\Debug\RSSParsing.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\obj\Debug\RSSParsing.pdb
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\ApplicationInsights.config
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\roslyn\csc.exe
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\roslyn\vbc.exe
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\roslyn\VBCSCompiler.exe
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\RSSParsing.dll.config
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\RSSParsing.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\RSSParsing.pdb
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\Microsoft.AI.Web.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\Microsoft.ApplicationInsights.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\Microsoft.AI.Web.xml
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\Microsoft.ApplicationInsights.xml
+C:\Users\muraa\Desktop\Courses\Web Based Technologies\Proje\RSSParsing\RSSParsing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
